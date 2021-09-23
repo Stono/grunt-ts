@@ -397,6 +397,7 @@ export function compileAllFiles(options: Partial<IGruntTSOptions>, compilationIn
               'es7',
               'es2016',
               'es2017',
+              'es2020',
               'esnext',
               'dom',
               'dom.iterable',
